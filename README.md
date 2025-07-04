@@ -28,3 +28,5 @@ Se vitórias for maior ou igual a 101 = Imortal
 
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
+
+OBS.: Foi acrescentado na condição do resultado final a informação para caso o jogador tenha saldo negativo de Wins, para que mostre que o jogador permanece em ferro como uma tratativa de erro.
